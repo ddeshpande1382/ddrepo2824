@@ -1,0 +1,48 @@
+[33mcommit 936be6d612826578591a75af0e2a64fe306bde04[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 4a4b276 204695e
+Author: Dinesh D <eknathvishwas@gmail.com>
+Date:   Thu Aug 1 15:49:13 2024 +0530
+
+    Resolved conflict of File2
+
+[33mcommit 4a4b2765f389dc99344be2305054f1e610a3ba2a[m
+Author: Dinesh D <eknathvishwas@gmail.com>
+Date:   Thu Aug 1 15:46:26 2024 +0530
+
+    added file21 and modified file3 in automation
+
+[33mcommit 204695ea72c46a3fa1344c5b822bd89c3cadf1ec[m[33m ([m[1;32mAutomation[m[33m)[m
+Author: Dinesh D <eknathvishwas@gmail.com>
+Date:   Thu Aug 1 15:43:48 2024 +0530
+
+    modified file
+
+[33mcommit 2f9ccba2ad20560d26cac283e221d28f6ad76b7a[m
+Author: Dinesh D <eknathvishwas@gmail.com>
+Date:   Thu Aug 1 15:40:17 2024 +0530
+
+    added auto-file2
+
+[33mcommit 3b77dad171051b67f733d7ef2c5daa3b1be38d7f[m
+Author: Dinesh D <eknathvishwas@gmail.com>
+Date:   Thu Aug 1 14:17:00 2024 +0530
+
+    addd file 3
+
+[33mcommit f4c2fbdae94be9cde923fa35d36c14d8bdd5eedd[m
+Author: Dinesh D <eknathvishwas@gmail.com>
+Date:   Thu Aug 1 14:10:15 2024 +0530
+
+    Added Second file
+
+[33mcommit 33ab08fca4ecc0be42f88fb0d1e933237cec7821[m
+Author: Dinesh D <root@master.localdomain>
+Date:   Thu Aug 1 13:54:21 2024 +0530
+
+    Added new file dfile
+
+[33mcommit b791d67a1f6dc0ddeeaaebf9333be0dabac4b43d[m
+Author: ddadmin <root@master.localdomain>
+Date:   Thu Aug 1 13:45:07 2024 +0530
+
+    Aded file for testing
